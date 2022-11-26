@@ -3,7 +3,7 @@ GET http://localhost:8080/read/diaries?from=2022-11-20&to=2022-11-23
 Accept: application/json
 
 ### read diary
-GET http://localhost:8080/read/diary?date=2022-08-22
+GET http://localhost:8080/read/diary?date=dfs
 Accept: application/json
 
 ### create diary
